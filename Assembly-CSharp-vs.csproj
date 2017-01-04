@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{A2859A56-AB4A-51F9-60BB-1B6FC96E8C70}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_6_1;UNITY_4_6;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_MONO;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE;UNITY_PRO_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Resources\head\action\BattleActionHead.cs" />
+     <Compile Include="Assets\TestAct\GamePad.cs" />
+     <Compile Include="Assets\TestAct\player2\BattlePlayer.cs" />
+     <Compile Include="Assets\code\OpCode.cs" />
+     <Compile Include="Assets\code\components\battle\BattleBall.cs" />
+     <Compile Include="Assets\code\components\battle\BattleBallAI.cs" />
+     <Compile Include="Assets\code\components\battle\BattleDialog.cs" />
+     <Compile Include="Assets\code\components\battle\BattleResult.cs" />
+     <Compile Include="Assets\code\components\battle\BattleStatus.cs" />
+     <Compile Include="Assets\code\components\battle\BattleStatusBar.cs" />
+     <Compile Include="Assets\code\components\demo\Demo.cs" />
+     <Compile Include="Assets\code\components\demo\Hero.cs" />
+     <Compile Include="Assets\code\components\demo\MonsterA.cs" />
+     <Compile Include="Assets\code\components\dialogue\Dialogue.cs" />
+     <Compile Include="Assets\code\components\http\HttpTest.cs" />
+     <Compile Include="Assets\code\components\login\LoginUgui.cs" />
+     <Compile Include="Assets\code\components\main\MainDialog.cs" />
+     <Compile Include="Assets\code\components\main\MissionItem.cs" />
+     <Compile Include="Assets\code\components\map\MapDialog.cs" />
+     <Compile Include="Assets\code\components\map\MapItem.cs" />
+     <Compile Include="Assets\code\components\map\toBattle\ToBattleDialog.cs" />
+     <Compile Include="Assets\code\components\map\toBattle\ToBattlePartnerItem.cs" />
+     <Compile Include="Assets\code\components\map\toBattle\ToBattleSelectItem.cs" />
+     <Compile Include="Assets\code\configs\BattleInfoConfig.cs" />
+     <Compile Include="Assets\code\configs\BattleInfoConfigData.cs" />
+     <Compile Include="Assets\code\configs\CreateRoleConfig.cs" />
+     <Compile Include="Assets\code\configs\CreateRoleConfigData.cs" />
+     <Compile Include="Assets\code\configs\DialogueConfig.cs" />
+     <Compile Include="Assets\code\configs\DialogueConfigData.cs" />
+     <Compile Include="Assets\code\configs\DialogueInfoConfig.cs" />
+     <Compile Include="Assets\code\configs\DialogueInfoConfigData.cs" />
+     <Compile Include="Assets\code\configs\HeroConfig.cs" />
+     <Compile Include="Assets\code\configs\HeroConfigData.cs" />
+     <Compile Include="Assets\code\configs\MapConfig.cs" />
+     <Compile Include="Assets\code\configs\MapConfigData.cs" />
+     <Compile Include="Assets\code\configs\MissionConfig.cs" />
+     <Compile Include="Assets\code\configs\MissionConfigData.cs" />
+     <Compile Include="Assets\code\configs\RoleConfig.cs" />
+     <Compile Include="Assets\code\configs\RoleConfigData.cs" />
+     <Compile Include="Assets\code\configs\SkillConfig.cs" />
+     <Compile Include="Assets\code\configs\SkillConfigData.cs" />
+     <Compile Include="Assets\code\events\BattleEvent.cs" />
+     <Compile Include="Assets\code\events\PartnerEvent.cs" />
+     <Compile Include="Assets\code\handlers\TestHandler.cs" />
+     <Compile Include="Assets\code\managers\BattleMgr.cs" />
+     <Compile Include="Assets\code\managers\DialogueMgr.cs" />
+     <Compile Include="Assets\code\managers\HeroMgr.cs" />
+     <Compile Include="Assets\code\managers\LoginMgr.cs" />
+     <Compile Include="Assets\code\managers\MapMgr.cs" />
+     <Compile Include="Assets\code\managers\MissionMgr.cs" />
+     <Compile Include="Assets\code\managers\PartnerMgr.cs" />
+     <Compile Include="Assets\code\managers\RoleMgr.cs" />
+     <Compile Include="Assets\code\managers\SkillMgr.cs" />
+     <Compile Include="Assets\code\models\BattleHeroModel.cs" />
+     <Compile Include="Assets\code\models\BattleInfoModel.cs" />
+     <Compile Include="Assets\code\models\DialogueInfoModel.cs" />
+     <Compile Include="Assets\code\models\DialogueModel.cs" />
+     <Compile Include="Assets\code\models\HeroModel.cs" />
+     <Compile Include="Assets\code\models\HeroSkillModel.cs" />
+     <Compile Include="Assets\code\models\MapModel.cs" />
+     <Compile Include="Assets\code\models\MissionModel.cs" />
+     <Compile Include="Assets\code\models\SkillModel.cs" />
+     <Compile Include="Assets\code\packets\TestInfoPacket.cs" />
+     <Compile Include="Assets\code\packets\TestPacket.cs" />
+     <Compile Include="Assets\code\packets\TestPacket2.cs" />
+     <Compile Include="Assets\code\packets\TestPacket_end.cs" />
+     <Compile Include="Assets\code\savaData\HeroData.cs" />
+     <Compile Include="Assets\code\savaData\MissionData.cs" />
+     <Compile Include="Assets\code\savaData\PartnerData.cs" />
+     <Compile Include="Assets\code\savaData\RoleData.cs" />
+     <Compile Include="Assets\code\solaEngine\BaseHandler.cs" />
+     <Compile Include="Assets\code\solaEngine\BaseMgr.cs" />
+     <Compile Include="Assets\code\solaEngine\BasePacket.cs" />
+     <Compile Include="Assets\code\solaEngine\SolaEngine.cs" />
+     <Compile Include="Assets\code\solaEngine\SolaPhysics.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\AIStatus.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\ActionNode.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\BaseBehaviourNode.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\BaseCompositeNode.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\BaseConditionNode.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\BehaviourTree.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\SelectorNode.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\SequenceNode.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\actionNodes\TestActionNode1.cs" />
+     <Compile Include="Assets\code\solaEngine\ai\solaAi\conditionNodes\TestConditionNode1.cs" />
+     <Compile Include="Assets\code\solaEngine\animation\BezierBy.cs" />
+     <Compile Include="Assets\code\solaEngine\animation\BezierConfig.cs" />
+     <Compile Include="Assets\code\solaEngine\animation\ColorTo.cs" />
+     <Compile Include="Assets\code\solaEngine\animation\MoveTo.cs" />
+     <Compile Include="Assets\code\solaEngine\attributes\OpCodeAttribute.cs" />
+     <Compile Include="Assets\code\solaEngine\communicate\socket\GameSocket.cs" />
+     <Compile Include="Assets\code\solaEngine\communicate\socket\Server.cs" />
+     <Compile Include="Assets\code\solaEngine\communicate\socket\SocketHelper.cs" />
+     <Compile Include="Assets\code\solaEngine\initors\InitConfigs.cs" />
+     <Compile Include="Assets\code\solaEngine\initors\InitEvents.cs" />
+     <Compile Include="Assets\code\solaEngine\initors\InitHandlers.cs" />
+     <Compile Include="Assets\code\solaEngine\initors\InitMgrs.cs" />
+     <Compile Include="Assets\code\solaEngine\initors\InitPackets.cs" />
+     <Compile Include="Assets\code\solaEngine\libs\SimpleJson.cs" />
+     <Compile Include="Assets\code\solaEngine\libs\SolaFile.cs" />
+     <Compile Include="Assets\code\solaEngine\saver\SolaSaver.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\native\SolaButtonNative.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\ugui\EventTriggerListener.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\ugui\IPointerOverUI.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\ugui\SolaButtonUgui.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\ugui\SolaScroll.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\ugui\SolaScrollItem.cs" />
+     <Compile Include="Assets\code\solaEngine\ui\ugui\UITools.cs" />
+     <Compile Include="Assets\scenes\ScenesName.cs" />
+     <None Include="Assets\Plugins\Android\res\values\styles.xml" />
+     <None Include="Assets\Plugins\Android\res\values-v11\styles.xml" />
+     <None Include="Assets\materials\Clip.shader" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\res\values\strings.xml" />
+     <None Include="Assets\materials\Gray.shader" />
+     <None Include="Assets\Extreme Flora Pack\Shader\AlphaTest-DiffuseDoublesided.shader" />
+     <None Include="Assets\Plugins\Android\res\values-v14\styles.xml" />
+     <None Include="Assets\materials\Vague.shader" />
+     <None Include="Assets\Extreme Flora Pack\Shader\AlphaTest-DiffuseBack.shader" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>D:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions xmlns="http://schemas.microsoft.com/developer/msbuild/2003"><MonoDevelop><Properties><Policies><TextStylePolicy FileWidth="120" TabsToSpaces="False" EolMarker="Unix" inheritsSet="VisualStudio" inheritsScope="text/plain" scope="text/x-csharp" /><CSharpFormattingPolicy inheritsSet="Mono" inheritsScope="text/x-csharp" scope="text/x-csharp" /></Policies></Properties></MonoDevelop></ProjectExtensions>
+
+</Project>

@@ -1,0 +1,960 @@
+fileFormatVersion: 2
+guid: 04a8e25b5baab0b48bfed55633da2e69
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_conglin_body_0
+    21300002: hero_conglin_body_1
+    21300004: hero_conglin_body_2
+    21300006: hero_conglin_body_3
+    21300008: hero_conglin_body_4
+    21300010: hero_conglin_body_5
+    21300012: hero_conglin_body_6
+    21300014: hero_conglin_body_7
+    21300016: hero_conglin_body_8
+    21300018: hero_conglin_body_9
+    21300020: hero_conglin_body_10
+    21300022: hero_conglin_body_11
+    21300024: hero_conglin_body_12
+    21300026: hero_conglin_body_13
+    21300028: hero_conglin_body_14
+    21300030: hero_conglin_body_15
+    21300032: hero_conglin_body_16
+    21300034: hero_conglin_body_17
+    21300036: hero_conglin_body_18
+    21300038: hero_conglin_body_19
+    21300040: hero_conglin_body_20
+    21300042: hero_conglin_body_21
+    21300044: hero_conglin_body_22
+    21300046: hero_conglin_body_23
+    21300048: hero_conglin_body_24
+    21300050: hero_conglin_body_25
+    21300052: hero_conglin_body_26
+    21300054: hero_conglin_body_27
+    21300056: hero_conglin_body_28
+    21300058: hero_conglin_body_29
+    21300060: hero_conglin_body_30
+    21300062: hero_conglin_body_31
+    21300064: hero_conglin_body_32
+    21300066: hero_conglin_body_33
+    21300068: hero_conglin_body_34
+    21300070: hero_conglin_body_35
+    21300072: hero_conglin_body_36
+    21300074: hero_conglin_body_37
+    21300076: hero_conglin_body_38
+    21300078: hero_conglin_body_39
+    21300080: hero_conglin_body_40
+    21300082: hero_conglin_body_41
+    21300084: hero_conglin_body_42
+    21300086: hero_conglin_body_43
+    21300088: hero_conglin_body_44
+    21300090: hero_conglin_body_45
+    21300092: hero_conglin_body_46
+    21300094: hero_conglin_body_47
+    21300096: hero_conglin_body_48
+    21300098: hero_conglin_body_49
+    21300100: hero_conglin_body_50
+    21300102: hero_conglin_body_51
+    21300104: hero_conglin_body_52
+    21300106: hero_conglin_body_53
+    21300108: hero_conglin_body_54
+    21300110: hero_conglin_body_55
+    21300112: hero_conglin_body_56
+    21300114: hero_conglin_body_57
+    21300116: hero_conglin_body_58
+    21300118: hero_conglin_body_59
+    21300120: hero_conglin_body_60
+    21300122: hero_conglin_body_61
+    21300124: hero_conglin_body_62
+    21300126: hero_conglin_body_63
+    21300128: hero_conglin_body_64
+    21300130: hero_conglin_body_65
+    21300132: hero_conglin_body_66
+    21300134: hero_conglin_body_67
+    21300136: hero_conglin_body_68
+    21300138: hero_conglin_body_69
+    21300140: hero_conglin_body_70
+    21300142: hero_conglin_body_71
+    21300144: hero_conglin_body_72
+    21300146: hero_conglin_body_73
+    21300148: hero_conglin_body_74
+    21300150: hero_conglin_body_75
+    21300152: hero_conglin_body_76
+    21300154: hero_conglin_body_77
+    21300156: hero_conglin_body_78
+    21300158: hero_conglin_body_79
+    21300160: hero_conglin_body_80
+    21300162: hero_conglin_body_81
+    21300164: hero_conglin_body_82
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_conglin_body_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 972
+        width: 234
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_1
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 958
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 965
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 976
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 965
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_5
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 869
+        width: 141
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_6
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 934
+        width: 53
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_7
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 885
+        width: 42
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 899
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 888
+        width: 62
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 886
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_11
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 827
+        width: 127
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_12
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 812
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 869
+        width: 44
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_14
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 805
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_15
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 808
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_16
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 813
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_17
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 827
+        width: 98
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_18
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 828
+        width: 76
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 796
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 799
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_21
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 776
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 707
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_23
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 757
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_24
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 730
+        width: 84
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_25
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 740
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 721
+        width: 46
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_27
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 743
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_28
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 728
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 735
+        width: 57
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_30
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 723
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 720
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_32
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 677
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 661
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 666
+        width: 58
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 674
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_36
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 634
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_37
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 639
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 633
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_39
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 658
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_40
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 600
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_41
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 601
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_42
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 624
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_43
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 624
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_44
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 611
+        width: 66
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_45
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 616
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_46
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 621
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_47
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 561
+        width: 65
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_48
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 570
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_49
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 570
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 568
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 577
+        width: 47
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_52
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 555
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_53
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 567
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_54
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 566
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_55
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 548
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 536
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 553
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 512
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_59
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 547
+        width: 64
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_60
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 490
+        width: 51
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_61
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 495
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 521
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_63
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 500
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_64
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 510
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_65
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 506
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_66
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 513
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_67
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 510
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_68
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 531
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_69
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 502
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_70
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 510
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_71
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 494
+        width: 79
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_72
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 463
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_73
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 475
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_74
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 465
+        width: 39
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_75
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 462
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_76
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 469
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 442
+        width: 43
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_78
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 433
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_79
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 434
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_80
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 420
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_81
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 420
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_conglin_body_82
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 392
+        width: 33
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

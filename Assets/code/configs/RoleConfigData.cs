@@ -1,0 +1,6 @@
+using UnityEngine;using System.Collections;using System.Collections.Generic;using SimpleJson;
+public class RoleConfigData {
+public const string NAME = "RoleConfig";
+private string _data="[{\"expBase\":20,\"maxLevel\":99,\"miniLevel\":1,\"recoverAmount\":1,\"governingBase\":30,\"recoverInterval\":30}]";
+private object[] _dataJson;private List<RoleConfig> _dataList=new List<RoleConfig>();
+public RoleConfigData(){_dataJson = SimpleJson.SimpleJson.DeserializeObject<JsonArray> (_data).ToArray ();foreach (object jsonObject in _dataJson) {JsonObject jo=(JsonObject) jsonObject;RoleConfig config=new RoleConfig();_dataList.Add(config);foreach(string key in jo.Keys){object value=jo[key];System.Type type =typeof(RoleConfig);System.Reflection.FieldInfo info=type.GetField(key);if(info==null){continue;}if (value is JsonArray) {JsonArray jarr=(JsonArray)value;int jarrSize=jarr.Count;if(info.FieldType.FullName=="System.Int32[]"){int[] data=new int[jarrSize];for(int i=0;i<jarrSize;i++){data[i]= (int)jarr[i];}info.SetValue (config, data);}else{string[] data=new string[jarrSize];for(int i=0;i<jarrSize;i++){data[i]= (string)jarr[i];}info.SetValue (config, data);}}else{info.SetValue(config,value);}}}_dataJson = null;_data = null;}public List<RoleConfig> getList(){return _dataList;}}

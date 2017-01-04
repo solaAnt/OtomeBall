@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: 1107617e947152643b3d73bab12319ec
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: atk_0_1
+    21300002: atk_0_0
+    21300004: atk_0_2
+    21300006: atk_1_0
+    21300008: atk_1_2
+    21300010: atk_1_1
+    21300012: idle_0
+    21300014: idle_1
+    21300016: idle_2
+    21300018: blade_effect_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: atk_0_1
+      rect:
+        serializedVersion: 2
+        x: 1922
+        y: 1680
+        width: 118
+        height: 189
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atk_0_0
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 306
+        width: 121
+        height: 191
+      alignment: 9
+      pivot: {x: .427037507, y: .387746125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atk_0_2
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 872
+        width: 229
+        height: 173
+      alignment: 9
+      pivot: {x: .301795393, y: .46736595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atk_1_0
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1157
+        width: 127
+        height: 175
+      alignment: 9
+      pivot: {x: .596910477, y: .443300724}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atk_1_2
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 982
+        width: 196
+        height: 170
+      alignment: 9
+      pivot: {x: .632330418, y: .453565896}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: atk_1_1
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 686
+        width: 187
+        height: 187
+      alignment: 9
+      pivot: {x: .312933445, y: .419828534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1870
+        width: 128
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1870
+        width: 128
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: idle_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1870
+        width: 128
+        height: 178
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blade_effect_0
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1849
+        width: 222
+        height: 199
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

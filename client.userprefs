@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\solaEngine\ai\BaseNode.cs">
+    <Files>
+      <File FileName="Assets\code\solaEngine\ai\solaAi\BehaviourTree.cs" Line="21" Column="2" />
+      <File FileName="Assets\code\solaEngine\ai\solaAi\BaseBehaviourNode.cs" Line="13" Column="69" />
+      <File FileName="Assets\code\solaEngine\ai\solaAi\BaseCompositeNode.cs" Line="9" Column="29" />
+      <File FileName="Assets\code\solaEngine\ai\solaAi\BaseConditionNode.cs" Line="5" Column="32" />
+      <File FileName="Assets\code\solaEngine\ai\solaAi\SequenceNode.cs" Line="11" Column="37" />
+      <File FileName="Assets\code\solaEngine\ai\SequenceNode.cs" Line="5" Column="58" />
+      <File FileName="Assets\code\solaEngine\ai\solaAi\SelectorNode.cs" Line="5" Column="46" />
+      <File FileName="Assets\code\solaEngine\ai\BaseNode.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

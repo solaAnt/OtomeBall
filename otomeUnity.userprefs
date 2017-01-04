@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\code\solaEngine\BasePacket.cs">
+    <Files>
+      <File FileName="Assets\code\solaEngine\SolaEngine.cs" Line="71" Column="67" />
+      <File FileName="Assets\code\solaEngine\BasePacket.cs" Line="23" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\game\project\otome\otome_unity_project\otomeUnity\Assets\code\handlers\TestHandler.cs" line="9" />
+      <Breakpoint file="E:\game\project\otome\otome_unity_project\otomeUnity\Assets\code\handlers\TestHandler.cs" line="10" />
+      <Breakpoint file="E:\game\project\otome\otome_unity_project\otomeUnity\Assets\code\solaEngine\communicate\socket\SocketHelper.cs" line="120" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

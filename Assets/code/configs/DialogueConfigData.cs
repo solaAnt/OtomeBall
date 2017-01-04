@@ -1,0 +1,6 @@
+using UnityEngine;using System.Collections;using System.Collections.Generic;using SimpleJson;
+public class DialogueConfigData {
+public const string NAME = "DialogueConfig";
+private string _data="[{\"content\":[1],\"id\":1},{\"content\":[2],\"id\":2},{\"content\":[3],\"id\":3}]";
+private object[] _dataJson;private List<DialogueConfig> _dataList=new List<DialogueConfig>();
+public DialogueConfigData(){_dataJson = SimpleJson.SimpleJson.DeserializeObject<JsonArray> (_data).ToArray ();foreach (object jsonObject in _dataJson) {JsonObject jo=(JsonObject) jsonObject;DialogueConfig config=new DialogueConfig();_dataList.Add(config);foreach(string key in jo.Keys){object value=jo[key];System.Type type =typeof(DialogueConfig);System.Reflection.FieldInfo info=type.GetField(key);if(info==null){continue;}if (value is JsonArray) {JsonArray jarr=(JsonArray)value;int jarrSize=jarr.Count;if(info.FieldType.FullName=="System.Int32[]"){int[] data=new int[jarrSize];for(int i=0;i<jarrSize;i++){data[i]= (int)jarr[i];}info.SetValue (config, data);}else{string[] data=new string[jarrSize];for(int i=0;i<jarrSize;i++){data[i]= (string)jarr[i];}info.SetValue (config, data);}}else{info.SetValue(config,value);}}}_dataJson = null;_data = null;}public List<DialogueConfig> getList(){return _dataList;}}

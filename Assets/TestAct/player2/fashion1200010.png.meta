@@ -1,0 +1,388 @@
+fileFormatVersion: 2
+guid: 7f2211251a419294d87a1c18cc854fdb
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fashion1200010_0
+    21300002: fashion1200010_1
+    21300004: fashion1200010_2
+    21300006: fashion1200010_3
+    21300008: fashion1200010_4
+    21300010: fashion1200010_5
+    21300012: fashion1200010_6
+    21300014: fashion1200010_7
+    21300016: fashion1200010_8
+    21300018: fashion1200010_9
+    21300020: fashion1200010_10
+    21300022: fashion1200010_11
+    21300024: fashion1200010_12
+    21300026: fashion1200010_13
+    21300028: fashion1200010_14
+    21300030: fashion1200010_15
+    21300032: fashion1200010_16
+    21300034: fashion1200010_17
+    21300036: fashion1200010_18
+    21300038: fashion1200010_19
+    21300040: fashion1200010_20
+    21300042: fashion1200010_21
+    21300044: fashion1200010_22
+    21300046: fashion1200010_23
+    21300048: fashion1200010_24
+    21300050: fashion1200010_25
+    21300052: fashion1200010_26
+    21300054: fashion1200010_27
+    21300056: fashion1200010_28
+    21300058: fashion1200010_29
+    21300060: fashion1200010_30
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: fashion1200010_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 338
+        width: 126
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 338
+        width: 127
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 338
+        width: 128
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 348
+        width: 153
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_4
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 346
+        width: 157
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 343
+        width: 143
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_6
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 340
+        width: 148
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 163
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_9
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 163
+        width: 129
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_10
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 172
+        width: 150
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 175
+        width: 147
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_12
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 320
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_13
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 320
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 281
+        width: 151
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_15
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 253
+        width: 149
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_16
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 220
+        width: 144
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_17
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 188
+        width: 141
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 151
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 7
+        width: 147
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_20
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 149
+        width: 72
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 148
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_22
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 154
+        width: 82
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 140
+        width: 69
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 102
+        width: 119
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_25
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 113
+        width: 148
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_26
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 83
+        width: 66
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_27
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 66
+        width: 68
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_28
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 46
+        width: 141
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_29
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 29
+        width: 69
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fashion1200010_30
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 29
+        width: 58
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

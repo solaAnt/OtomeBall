@@ -1,0 +1,1081 @@
+fileFormatVersion: 2
+guid: a175b8843cf293a4c8c43c68dbe4571b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_shizwushi_body_0
+    21300002: hero_shizwushi_body_1
+    21300004: hero_shizwushi_body_2
+    21300006: hero_shizwushi_body_3
+    21300008: hero_shizwushi_body_4
+    21300010: hero_shizwushi_body_5
+    21300012: hero_shizwushi_body_6
+    21300014: hero_shizwushi_body_7
+    21300016: hero_shizwushi_body_8
+    21300018: hero_shizwushi_body_9
+    21300020: hero_shizwushi_body_10
+    21300022: hero_shizwushi_body_11
+    21300024: hero_shizwushi_body_12
+    21300026: hero_shizwushi_body_13
+    21300028: hero_shizwushi_body_14
+    21300030: hero_shizwushi_body_15
+    21300032: hero_shizwushi_body_16
+    21300034: hero_shizwushi_body_17
+    21300036: hero_shizwushi_body_18
+    21300038: hero_shizwushi_body_19
+    21300040: hero_shizwushi_body_20
+    21300042: hero_shizwushi_body_21
+    21300044: hero_shizwushi_body_22
+    21300046: hero_shizwushi_body_23
+    21300048: hero_shizwushi_body_24
+    21300050: hero_shizwushi_body_25
+    21300052: hero_shizwushi_body_26
+    21300054: hero_shizwushi_body_27
+    21300056: hero_shizwushi_body_28
+    21300058: hero_shizwushi_body_29
+    21300060: hero_shizwushi_body_30
+    21300062: hero_shizwushi_body_31
+    21300064: hero_shizwushi_body_32
+    21300066: hero_shizwushi_body_33
+    21300068: hero_shizwushi_body_34
+    21300070: hero_shizwushi_body_35
+    21300072: hero_shizwushi_body_36
+    21300074: hero_shizwushi_body_37
+    21300076: hero_shizwushi_body_38
+    21300078: hero_shizwushi_body_39
+    21300080: hero_shizwushi_body_40
+    21300082: hero_shizwushi_body_41
+    21300084: hero_shizwushi_body_42
+    21300086: hero_shizwushi_body_43
+    21300088: hero_shizwushi_body_44
+    21300090: hero_shizwushi_body_45
+    21300092: hero_shizwushi_body_46
+    21300094: hero_shizwushi_body_47
+    21300096: hero_shizwushi_body_48
+    21300098: hero_shizwushi_body_49
+    21300100: hero_shizwushi_body_50
+    21300102: hero_shizwushi_body_51
+    21300104: hero_shizwushi_body_52
+    21300106: hero_shizwushi_body_53
+    21300108: hero_shizwushi_body_54
+    21300110: hero_shizwushi_body_55
+    21300112: hero_shizwushi_body_56
+    21300114: hero_shizwushi_body_57
+    21300116: hero_shizwushi_body_58
+    21300118: hero_shizwushi_body_59
+    21300120: hero_shizwushi_body_60
+    21300122: hero_shizwushi_body_61
+    21300124: hero_shizwushi_body_62
+    21300126: hero_shizwushi_body_63
+    21300128: hero_shizwushi_body_64
+    21300130: hero_shizwushi_body_65
+    21300132: hero_shizwushi_body_66
+    21300134: hero_shizwushi_body_67
+    21300136: hero_shizwushi_body_68
+    21300138: hero_shizwushi_body_69
+    21300140: hero_shizwushi_body_70
+    21300142: hero_shizwushi_body_71
+    21300144: hero_shizwushi_body_72
+    21300146: hero_shizwushi_body_73
+    21300148: hero_shizwushi_body_74
+    21300150: hero_shizwushi_body_75
+    21300152: hero_shizwushi_body_76
+    21300154: hero_shizwushi_body_77
+    21300156: hero_shizwushi_body_78
+    21300158: hero_shizwushi_body_79
+    21300160: hero_shizwushi_body_80
+    21300162: hero_shizwushi_body_81
+    21300164: hero_shizwushi_body_82
+    21300166: hero_shizwushi_body_83
+    21300168: hero_shizwushi_body_84
+    21300170: hero_shizwushi_body_85
+    21300172: hero_shizwushi_body_86
+    21300174: hero_shizwushi_body_87
+    21300176: hero_shizwushi_body_88
+    21300178: hero_shizwushi_body_89
+    21300180: hero_shizwushi_body_90
+    21300182: hero_shizwushi_body_91
+    21300184: hero_shizwushi_body_92
+    21300186: hero_shizwushi_body_93
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: hero_shizwushi_body_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 961
+        width: 234
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_1
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 944
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_2
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 967
+        width: 130
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_3
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 968
+        width: 116
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 993
+        width: 113
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_5
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 957
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 885
+        width: 123
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 866
+        width: 19
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 885
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_9
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 869
+        width: 141
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_10
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 922
+        width: 123
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_11
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 884
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_12
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 893
+        width: 105
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 867
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_14
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 886
+        width: 65
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_15
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 827
+        width: 126
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 782
+        width: 115
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_17
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 806
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_18
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 810
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_19
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 813
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_20
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 827
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_21
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 827
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_22
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 798
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_23
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 799
+        width: 37
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_24
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 741
+        width: 26
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_25
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 775
+        width: 68
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_26
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 706
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_27
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 759
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 730
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_29
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 734
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_30
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 760
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_31
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 728
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_32
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 735
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_33
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 723
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_34
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 739
+        width: 50
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_35
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 689
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_36
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 720
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_37
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 644
+        width: 28
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_38
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 792
+        width: 53
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 653
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_40
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 662
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 673
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_42
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 635
+        width: 61
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_43
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 630
+        width: 83
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 622
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_45
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 663
+        width: 97
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_46
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 658
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 673
+        width: 105
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_48
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 624
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_49
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 625
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_50
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 611
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_51
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 622
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_52
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 645
+        width: 95
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_53
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 600
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_54
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 601
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_55
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 570
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_56
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 615
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_57
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 561
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_58
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 553
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_59
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 575
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 557
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_61
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 564
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_62
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 577
+        width: 47
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_63
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 548
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_64
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 555
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_65
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 534
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_66
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 532
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_67
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 512
+        width: 55
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_68
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 553
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_69
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 489
+        width: 51
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_70
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 495
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_71
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 521
+        width: 46
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_72
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 495
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_73
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 498
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_74
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 508
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_75
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 520
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_76
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 527
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_77
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 496
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_78
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 463
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_79
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 475
+        width: 38
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_80
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 457
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_81
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 458
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_82
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 461
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_83
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 442
+        width: 51
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_84
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 433
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_85
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 429
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_86
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 417
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_87
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 413
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_88
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 373
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_89
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 394
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_90
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 388
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_91
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 318
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: hero_shizwushi_body_93
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 344
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

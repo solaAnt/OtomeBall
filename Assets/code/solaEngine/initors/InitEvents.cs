@@ -1,0 +1,1 @@
+using UnityEngine;using System.Collections;using System.Collections.Generic;public class InitEvents{public void init (){BattleEvent.init();PartnerEvent.init();}}
